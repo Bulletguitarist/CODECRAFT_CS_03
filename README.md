@@ -168,5 +168,3 @@ Must contain at least one special character.
 
 ## Author
 Jyotirmoy Mahapatra
-
-Your Name
